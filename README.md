@@ -65,3 +65,6 @@
 <p align="center">
   <i>❝ ᴅᴏɴ'ᴛ ᴄᴏᴍᴍᴇɴᴛ ʙᴀᴅ ᴄᴏᴅᴇ — ʀᴇᴡʀɪᴛᴇ ɪᴛ. ❞ – ᗷᖇIᗩᑎ KEᖇᑎIGᕼᗩᑎ</i>
 </p>
+
+<img width="1600" height="400" alt="image" src="https://github.com/user-attachments/assets/6af02ce7-0ded-4dd4-a086-a8e550186acc" />
+<i>60 seconds typing speed test. Reached 115wpm consistently across 60 seconds on 06/02/2026</i>
