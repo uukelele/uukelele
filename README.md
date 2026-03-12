@@ -18,20 +18,20 @@
 </h3>
 <h3 title="A launcher for Minecraft, optimized for giving you the best experience possible.">
   cesena
-  <img src="https://github.com/uukelele-scratch/cesena-launcher/blob/main/assets/logo.png?raw=true" height="16" />
-  <a href="https://github.com/uukelele-scratch/cesena-launcher/"><kbd>GitHub</kbd></a>
+  <img src="https://github.com/uukelele/cesena-launcher/blob/main/assets/logo.png?raw=true" height="16" />
+  <a href="https://github.com/uukelele/cesena-launcher/"><kbd>GitHub</kbd></a>
 </h3>
 <h3 title="Build your Python projects, and turn them into packaged executables for all platforms.">
   PyBuild
   •
-  <a href="https://github.com/uukelele-scratch/pybuild"><kbd>GitHub</kbd></a>
+  <a href="https://github.com/uukelele/pybuild"><kbd>GitHub</kbd></a>
 </h3>
 
 
 # 𝚂𝚃𝙰𝚃𝚂
 <div align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-clone-wine.vercel.app/api?username=uukelele-scratch&show_icons=true&count_private=true&theme=transparent&hide_border=true"><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-clone-wine.vercel.app/api?username=uukelele-scratch&show_icons=true&count_private=true&theme=default&hide_border=true"><img alt="GitHub Stats" src="https://github-readme-stats-clone-wine.vercel.app/api?username=uukelele-scratch&show_icons=true&count_private=true&theme=default&hide_border=true"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-clone-wine.vercel.app/api/top-langs/?username=uukelele-scratch&layout=compact&theme=transparent&hide_border=true"><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-clone-wine.vercel.app/api/top-langs/?username=uukelele-scratch&layout=compact&theme=default&hide_border=true"><img alt="Top Languages" src="https://github-readme-stats-clone-wine.vercel.app/api/top-langs/?username=uukelele-scratch&layout=compact&theme=default&hide_border=true"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-clone-wine.vercel.app/api?username=uukelele&show_icons=true&count_private=true&theme=transparent&hide_border=true"><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-clone-wine.vercel.app/api?username=uukelele&show_icons=true&count_private=true&theme=default&hide_border=true"><img alt="GitHub Stats" src="https://github-readme-stats-clone-wine.vercel.app/api?username=uukelele&show_icons=true&count_private=true&theme=default&hide_border=true"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-clone-wine.vercel.app/api/top-langs/?username=uukelele&layout=compact&theme=transparent&hide_border=true"><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-clone-wine.vercel.app/api/top-langs/?username=uukelele&layout=compact&theme=default&hide_border=true"><img alt="Top Languages" src="https://github-readme-stats-clone-wine.vercel.app/api/top-langs/?username=uukelele&layout=compact&theme=default&hide_border=true"></picture>
 </div>
 
 <div align="center">
