@@ -65,10 +65,3 @@
 <p align="center">
   <i>❝ ᴅᴏɴ'ᴛ ᴄᴏᴍᴍᴇɴᴛ ʙᴀᴅ ᴄᴏᴅᴇ — ʀᴇᴡʀɪᴛᴇ ɪᴛ. ❞ – ᗷᖇIᗩᑎ KEᖇᑎIGᕼᗩᑎ</i>
 </p>
-
-<img width="1600" height="400" alt="image" src="https://github.com/user-attachments/assets/6af02ce7-0ded-4dd4-a086-a8e550186acc" />
-<i>60 seconds typing speed test. Reached 115wpm consistently across 60 seconds on 06/02/2026</i>
-
-<img width="1600" height="400" alt="image" src="https://github.com/user-attachments/assets/e986b978-1067-445b-becd-8a79e5b98bc4" />
-<i>10 words typing speed test. Reached 174wpm burst speed across 10 words / 3.59 seconds on 06/02/2026</i>
-
