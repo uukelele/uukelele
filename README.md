@@ -10,21 +10,32 @@
 
 ###### Hover over the projects for brief descriptions, or click the buttons for the relevant links.
 
+<h3 title="Don't build APIs. FUSE your frontend and backend together.">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="15" alt="fastapi" />
+  <img src="https://raw.githubusercontent.com/astral-sh/uv/refs/heads/main/docs/assets/logo-letter.svg" height="15" alt="uv" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="15" alt="svelte" />
+  <img src="https://raw.githubusercontent.com/ephaptic/ephaptic/refs/heads/main/docs/assets/logo.png" height="15" alt="ephaptic" />
+  Stack
+  •
+  <a href="https://uukelele.is-a.dev/blog/projects/fuse-stack"><kbd>Blog</kbd></a>
+  <a href="https://github.com/uukelele/fuse-template"><kbd>GitHub</kbd></a>
+</h3>
+
 <h3 title="Call your backend straight from your frontend. No JSON. Low latency. Invisible middleware. And type-safe.">
   ephaptic
   <img src="https://raw.githubusercontent.com/ephaptic/ephaptic/refs/heads/main/.github/assets/logo.png" height="16" />
   <a href="https://ephaptic.github.io/ephaptic"><kbd>Docs</kbd></a>
   <a href="https://github.com/ephaptic/ephaptic"><kbd>GitHub</kbd></a>
 </h3>
-<h3 title="A launcher for Minecraft, optimized for giving you the best experience possible.">
-  cesena
-  <img src="https://github.com/uukelele/cesena-launcher/blob/main/assets/logo.png?raw=true" height="16" />
-  <a href="https://github.com/uukelele/cesena-launcher/"><kbd>GitHub</kbd></a>
-</h3>
-<h3 title="Build your Python projects, and turn them into packaged executables for all platforms.">
-  PyBuild
+<h3 title="Coral is an AI agent with a Discord integration and built-in sandboxing and other tools.">
+  coral
   •
-  <a href="https://github.com/uukelele/pybuild"><kbd>GitHub</kbd></a>
+  <a href="https://github.com/uukelele/coral/"><kbd>GitHub</kbd></a>
+</h3>
+<h3 title="CLI Markdown renderer for the terminal. With more features than the rest ;)">
+  mkdn
+  •
+  <a href="https://github.com/uukelele/mkdn"><kbd>GitHub</kbd></a>
 </h3>
 
 
@@ -35,29 +46,13 @@
 </div>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp" />
-  <img width="12" />
+    <img width="12" />
+  <img src="https://raw.githubusercontent.com/astral-sh/uv/refs/heads/main/docs/assets/logo-letter.svg" height="40" alt="uv" />
+    <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="svelte" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="supabase" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
+    <img width="12" />
+  <img src="https://raw.githubusercontent.com/ephaptic/ephaptic/refs/heads/main/docs/assets/logo.png" height="40" alt="ephaptic" />
 </div>
 
 <hr>
