@@ -8,7 +8,9 @@
 
 <details align="center">
   <summary align="center">
-    <img align="center" src="https://github.com/uukelele/uukelele/blob/main/uukelele-landsat.png?raw=true" />    
+    <img align="center" src="https://github.com/uukelele/uukelele/blob/main/uukelele-landsat.png?raw=true" />
+    <br>
+    <h6>&copy; <a href="https://science.nasa.gov/mission/landsat/outreach/your-name-in-landsat/">NASA LANDSAT</a></h6>
   </summary>
 
   <br />
