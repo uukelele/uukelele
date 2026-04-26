@@ -6,67 +6,7 @@
 
 <hr>
 
-<details align="center">
-  <summary align="center">
-    <img align="center" src="https://github.com/uukelele/uukelele/blob/main/uukelele-landsat.png?raw=true" />
-    <br>
-    <h6>&copy; <a href="https://science.nasa.gov/mission/landsat/outreach/your-name-in-landsat/">NASA LANDSAT</a></h6>
-  </summary>
-
-  <br />
-  
-  <table align="center">
-    <thead>
-      <tr>
-        <th>Letter</th>
-        <th>Location</th>
-        <th>Long/Lat</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>U</td>
-        <td>Bamforth National Wildlife Refuge, Wyoming</td>
-        <td>41°19'26.0 N 105°46'13.9 W</td>
-      </tr>
-      <tr>
-        <td>U</td>
-        <td>Canyonlands National Park, Utah</td>
-        <td>38°16'09.1 N 109°55'32.7 W</td>
-      </tr>
-      <tr>
-        <td>K</td>
-        <td>Sirmilik National Park, Canada</td>
-        <td>72°05'01.1 N 76°48'42.9 W</td>
-      </tr>
-      <tr>
-        <td>E</td>
-        <td>Breiðamerkurjökull Glacier, Iceland</td>
-        <td>64°05'45.0 N 16°21'45.6 W</td>
-      </tr>
-      <tr>
-        <td>L</td>
-        <td>Xinjiang, China</td>
-        <td>40°04'02.8 N 77°40'00.7 E</td>
-      </tr>
-      <tr>
-        <td>E</td>
-        <td>Firn-filled Fjords, Tibet</td>
-        <td>29°15'46.9 N 96°19'03.8 E</td>
-      </tr>
-      <tr>
-        <td>L</td>
-        <td>Nusantara, Indonesia</td>
-        <td>0°58'18.1 S 116°41'58.9 E</td>
-      </tr>
-      <tr>
-        <td>E</td>
-        <td>Sea of Okhotsk</td>
-        <td>54°42'50.3 N 136°34'20.4 E</td>
-      </tr>
-    </tbody>
-  </table>
-</details>
+<img src="https://landsat.c00l.site/svg?text=uukelele&embed_image=true&attribution=true" />
 
 # 𝙿𝚁𝙾𝙹𝙴𝙲𝚃𝚂
 
